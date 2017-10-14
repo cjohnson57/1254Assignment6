@@ -1,0 +1,34 @@
+Task 1001 was requested at time 3
+Task 1001 began on core 0 at time 3 after a wait of 0
+Task 1001 finished on core 0 at time 7
+Task 1002 was requested at time 9
+Task 1002 began on core 0 at time 9 after a wait of 0
+Task 1003 was requested at time 11
+Task 1003 began on core 1 at time 11 after a wait of 0
+Task 1004 was requested at time 16
+Task 1005 was requested at time 24
+Task 1006 was requested at time 40
+Task 1002 finished on core 0 at time 40
+Task 1004 began on core 0 at time 41 after a wait of 25
+Task 1007 was requested at time 64
+Task 1003 finished on core 1 at time 69
+Task 1005 began on core 1 at time 70 after a wait of 46
+Task 1008 was requested at time 81
+Task 1009 was requested at time 98
+Task 1010 was requested at time 101
+Task 1004 finished on core 0 at time 130
+Task 1006 began on core 0 at time 131 after a wait of 91
+Task 1005 finished on core 1 at time 137
+Task 1007 began on core 1 at time 138 after a wait of 74
+Task 1007 finished on core 1 at time 153
+Task 1008 began on core 1 at time 154 after a wait of 73
+Task 1006 finished on core 0 at time 177
+Task 1009 began on core 0 at time 178 after a wait of 80
+Task 1008 finished on core 1 at time 227
+Task 1010 began on core 1 at time 228 after a wait of 127
+Task 1009 finished on core 0 at time 229
+Task 1010 finished on core 1 at time 259
+Total task waiting time = 516
+Average task waiting time = 51.600000
+Total core idle time = 45
+Average core idle time = 22.500000
